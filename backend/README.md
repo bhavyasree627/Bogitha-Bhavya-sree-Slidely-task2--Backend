@@ -14,7 +14,7 @@ This is a simple backend server for handling form submissions, built with Expres
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/bhavyasree627/Bogitha-Bhavya-sree-Slidely-task2--Backend.git
     cd backend
     ```
 
