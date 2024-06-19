@@ -85,5 +85,6 @@ Include screenshots or GIFs showing the application interface and its functional
 
 - **View Submission:**
   
-![Screenshot 2024-06-19 230554](https://github.com/bhavyasree627/Bogitha-Bhavya-sree-Slidely-task2--Backend/assets/99475745/1ecc46e1-08fb-4c5a-8816-77034c255e90)
+ ![Screenshot 2024-06-19 235636](https://github.com/bhavyasree627/Bogitha-Bhavya-sree-Slidely-task2--Backend/assets/99475745/c8914fc2-c3d9-42d8-84f3-7bbafa72ed9c)
+
 
